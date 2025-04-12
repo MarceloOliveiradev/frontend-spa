@@ -77,6 +77,10 @@ Para parar:
 docker compose down
 ```
 
+### ⚠️ Importante
+
+Ao fazer o download do repositório, o arquivo "docker-compose.yml" se encontra dentro da pasta "microsservico-backend", antes de executar o comando, certifique-se de extrair o arquivo para a raiz do projeto (sua pasta que contém as duas componentes) para o docker-compose funcionar corretamente.
+
 ---
 
 ## Observações
