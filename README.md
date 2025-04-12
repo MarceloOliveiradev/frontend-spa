@@ -98,7 +98,13 @@ frontend SPA/
 ```
 
 ---
+## Fluxograma
 
+<div align="center">
+  <img src="https://github.com/MarceloOliveiradev/frontend-spa/blob/main/img/fluxograma%20-%20arquitetura%20MVP2.png?raw=true" width="500px" />
+</div>
+
+---
 ## Arquitetura
 
 A aplicação segue arquitetura de microsserviços. Este frontend é um serviço separado e pode ser executado em seu próprio container Docker, consumindo dados da API REST hospedada separadamente.
